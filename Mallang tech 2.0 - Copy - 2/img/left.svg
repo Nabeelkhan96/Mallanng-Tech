@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="51">
+    <g data-name="Group 32">
+        <g data-name="Group 15">
+            <g style="fill:none">
+                <path d="M25.5 0A25.5 25.5 0 1 1 0 25.5 25.5 25.5 0 0 1 25.5 0z" style="stroke:none"/>
+                <path d="M25.5 3A22.429 22.429 0 0 0 9.59 9.59 22.429 22.429 0 0 0 3 25.5a22.429 22.429 0 0 0 6.59 15.91A22.429 22.429 0 0 0 25.5 48a22.429 22.429 0 0 0 15.91-6.59A22.429 22.429 0 0 0 48 25.5a22.429 22.429 0 0 0-6.59-15.91A22.429 22.429 0 0 0 25.5 3m0-3C39.583 0 51 11.417 51 25.5S39.583 51 25.5 51 0 39.583 0 25.5 11.417 0 25.5 0z" style="fill:#020113;stroke:none"/>
+            </g>
+            <path d="M-12.214-14V0L-19-7l6.784-7z" style="stroke:#020113;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:3px;fill:none" transform="translate(41 33)"/>
+        </g>
+    </g>
+</svg>

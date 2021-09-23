@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="86.258">
+    <g data-name="Scrole Down">
+        <path d="M960 650h2v73.257h-2V650" style="fill:#fff" transform="translate(-953 -650)"/>
+        <g transform="translate(0 71.257)" style="stroke:#fff;stroke-width:2px;fill:none">
+            <circle cx="7.5" cy="7.5" r="7.5" style="stroke:none"/>
+            <circle cx="7.5" cy="7.5" r="6.5" style="fill:none"/>
+        </g>
+    </g>
+</svg>
