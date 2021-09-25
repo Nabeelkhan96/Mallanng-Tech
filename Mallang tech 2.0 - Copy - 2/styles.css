@@ -50,8 +50,8 @@ position: relative;
   right: 0;
   margin-top: 50px;
 }
-.hamburger-menu{
-  margin-right: 116.5px;
+.hamburger-menu {
+    margin-right: 8%;
 }
 .menu__btn {
   position: fixed;
@@ -87,28 +87,23 @@ position: relative;
 }
 
 .menu__box {
-
-  margin-right: 150.5px;
-  display: block;
-  position: fixed;
-  visibility: hidden;
-  top: 0;
-  right: -100%;
-
-  width: 300px;
-  height: 100%;
-
-  margin: 0;
-  padding: 80px 0;
-
-  list-style: none;
-
-
-
-
-  transition-duration: .25s;
+    margin-right: 150.5px;
+    display: block;
+    position: fixed;
+    visibility: hidden;
+    top: 0;
+    backdrop-filter: blur(5px);
+    right: -100%;
+    /* width: 300px; */
+    /* height: 100%; */
+    margin: 0;
+    padding: 80px 0;
+    list-style: none;
+    transition-duration: .25s;
+    /* background: white; */
+    /* opacity: 0.5; */
+    border resize: auto;
 }
-
 .menu__item {
   marign top: 50px;
   align-content: flex-start;
@@ -121,7 +116,9 @@ position: relative;
   transition-duration: .25s;
 }
 .menu__item:hover {
- color: #2386CC;
+ color: #000000;
+ font-weight: bold;
+ font-size: 18px;
 }
 
 
@@ -1285,13 +1282,13 @@ select:focus {
 }
 .istreview-background {
     display: table;
-    height: 265px;
-    width: 265px;
-    margin-top: 40%;
+    height: 365px;
+    width: 365px;
     margin-left: 10px;
     background-color: #102131;
     transform: rotate(45deg);
     border-radius: 13px;
+    margin-top: 40%;
     /* margin-right: -70px; */
     /* margin-left: 57px; */
 }
